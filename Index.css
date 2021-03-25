@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+    margin: 0px;
+    border: 1px solid lightgrey;
+}
+.container{
+    width: 100%;
+    margin:0;
+    overflow: hidden;
+
+}
+.navbar1 ul{
+    width: 100%;
+    margin: 1px;
+    list-style: none;
+    border-bottom: 1px solid lightgrey;
+    
+}
+.navbar1 li{
+    display:inline;
+}
+.navbar1 a{
+    color:black;
+    text-decoration: none;
+    font-size: 12px;
+    padding: 30px 28px;
+    border-right: 1px solid lightgray;
+}
+#BBC{
+    font-size: 20px;
+    letter-spacing: 0.3em;
+    color: white;
+    background: gray;
+    padding: 0px;
+    margin: 15px 15px 15px 10px;
+    }
+#Sign-in{
+    padding-right: 50px;
+    border-left: 1px solid lightgray;
+}
+.navbar2{
+    background: red;
+    border-bottom: 1px solid lightgray;
+    height: 60px;
+}
+.navbar2 li{
+    display: inline;
+}
+.navbar2 a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    font-size: 36px;
+    margin-left:40;
+    
+}
